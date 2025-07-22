@@ -12,10 +12,10 @@ class KategoriBarangSeeder extends Seeder
     {
         $data = [
             ['nama' => 'Drum Besi'],
-            ['nama' => 'Drum Besi Rekondisi'],
+            ['nama' => 'Drum Rekondisi'],
             ['nama' => 'Drum Plastik'],
             ['nama' => 'Aksesori & Pelengkap'],
-            ['nama' => 'Produk Daur Ulang'],
+            ['nama' => 'Plat Drum'],
             ['nama' => 'Layanan Tambahan'],
         ];
 
